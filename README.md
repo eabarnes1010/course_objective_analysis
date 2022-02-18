@@ -4,7 +4,7 @@
 
 This repository stores all of the python examples (.py), data (.csv,.nc), and jupyter notebooks (.ipynb) used in the course. The python examples and their data can just be downloaded or run on Google's Colaboratory. 
 
-## Python Environment
+## Code
 ***
 Code was written on an iMac using python 3.7.
 
