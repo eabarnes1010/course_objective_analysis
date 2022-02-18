@@ -3,10 +3,12 @@
 others_code/
 archive/
 python_lecture_examples/
-jupyter_notebooks/data/z500_daily.mat
-jupyter_notebooks/data/sst.mon.mean.trefadj.anom.detrend.1880to2018.nc 
-jupyter_notebooks/data/Temperature_2meters_monthly_ERAInterim.csv 
-jupyter_notebooks/data/BEST-1950-2018-monthlyTemp.nc 
+data/z500_daily.mat
+data/sst.mon.mean.trefadj.anom.detrend.1880to2018.nc 
+data/Temperature_2meters_monthly_ERAInterim.csv 
+data/BEST-1950-2018-monthlyTemp.nc 
+
+*DS_Store*
 
 
 # how to send large files to .gitignore
