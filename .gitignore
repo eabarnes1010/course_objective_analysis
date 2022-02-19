@@ -1,16 +1,24 @@
-#.gitignore
-.ipynb_checkpoints/
-others_code/
+#Specific
 archive/
-python_lecture_examples/
+standby/
 data/z500_daily.mat
-data/sst.mon.mean.trefadj.anom.detrend.1880to2018.nc 
-data/Temperature_2meters_monthly_ERAInterim.csv 
-data/BEST-1950-2018-monthlyTemp.nc 
-
-*DS_Store*
+data/sst.mon.mean.trefadj.anom.detrend.1880to2018.nc
+data/Temperature_2meters_monthly_ERAInterim.csv
+data/BEST-1950-2018-monthlyTemp.nc
 
 
-# how to send large files to .gitignore
-#find . -size +2G | sed 's|^\./||g' | cat >> .gitignore
-#find . -size +2G | cat >> .gitignore
+# General
+.gitignore
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+__pycache__/
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+
+
+#Apple Stuff
+.DS_Store
+.DS_*
+Icon
+
