@@ -8,7 +8,6 @@ data/BEST-1950-2018-monthlyTemp.nc
 
 
 # General
-.gitignore
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
 __pycache__/
