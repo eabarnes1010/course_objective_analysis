@@ -5,7 +5,7 @@ data/z500_daily.mat
 data/sst.mon.mean.trefadj.anom.detrend.1880to2018.nc
 data/Temperature_2meters_monthly_ERAInterim.csv
 data/BEST-1950-2018-monthlyTemp.nc
-
+figures/
 
 # General
 .ipynb_checkpoints/
