@@ -2,11 +2,11 @@
 # ATS 655 - Objective Analysis for the Atmospheric Sciences (Colorado State University)
 ***
 
-This repository stores all of the python examples (.py), data (.csv,.nc), and jupyter notebooks (.ipynb) used in the course. The python examples and their data can just be downloaded or run on Google's Colaboratory. 
+This repository stores all of the python examples (.py), data (.csv,.nc), and jupyter notebooks (.ipynb) used in the course. The python examples and their data can just be downloaded or run on Google's Colaboratory.
 
 ## Code
 ***
-Code was written on an iMac using python 3.9.
+Code was written on an Apple M1 Max using Python 3.9.
 
 ### Python Environment
 ```
@@ -20,9 +20,12 @@ Code was written on an iMac using python 3.9.
 - pip install silence-tensorflow tqdm
 - conda install -c conda-forge cmocean cartopy xarray dask netCDF4 bottleneck nc-time-axis
 - pip install pydot graphviz
-- conda install -c conda-forge pymc3        
 - pip install MiniSom
 - conda install scikit-image
+- pip install --upgrade seaborn
+- pip install curve_fit
+- brew install pandoc
+- brew install graphviz
 ```
 
 ## Extra Information
