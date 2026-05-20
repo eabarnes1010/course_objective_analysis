@@ -1,6 +1,7 @@
 
-# ATS 655 - Objective Analysis for the Atmospheric Sciences (Colorado State University)
+# EE516 Multivariate Analysis for Geographers (Boston University)
 ***
+_previously ATS 655 - Objective Analysis for the Atmospheric Sciences (Colorado State University)_
 
 This repository stores all of the python examples (.py), data (.csv,.nc), and jupyter notebooks (.ipynb) used in the course. The python examples and their data can just be downloaded or run on Google's Colaboratory.
 
