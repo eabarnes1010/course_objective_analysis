@@ -1,12 +1,13 @@
-
 # EE516 Multivariate Analysis for Geographers (Boston University)
-***
-_previously ATS 655 - Objective Analysis for the Atmospheric Sciences (Colorado State University)_
+
+previously ATS 655 - Objective Analysis for the Atmospheric Sciences (Colorado State University)
 
 This repository stores all of the python examples (.py), data (.csv,.nc), and jupyter notebooks (.ipynb) used in the course. The python examples and their data can just be downloaded or run on Google's Colaboratory.
 
 ## Code
-***
+
+---
+
 Code is developed on Apple Silicon (M-series) using Python 3.13. The instructions below are written for [Miniforge](https://github.com/conda-forge/miniforge) / Mambaforge; standard Anaconda also works.
 
 ### Python Environment
@@ -42,15 +43,13 @@ A complete reference snapshot of the environment lives in [`env-ee516.yml`](env-
 Every notebook has an "Open In Colab" badge at the top. Click it to launch the notebook in Colab without any local install — Colab provides its own Python environment that runs the notebooks as-is.
 
 ## Extra Information
-***
 
 ### Credits
+
 The majority of the materials were created by [Dr. Elizabeth A. Barnes](https://barnes.atmos.colostate.edu), while additional collaborators are specified in the code when relevant.
 
-
 ### License
+
 This project is licensed under an MIT license.
 
 MIT © [Elizabeth A. Barnes](https://github.com/eabarnes1010)
-
-
