@@ -8,6 +8,7 @@ data/BEST-1950-2018-monthlyTemp.nc
 figures/
 .idea/
 tasks/
+workspace/
 
 # General
 .ipynb_checkpoints/
