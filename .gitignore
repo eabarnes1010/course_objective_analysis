@@ -19,6 +19,7 @@ __pycache__/
 *.pyo
 .gitattributes
 *.ipynb.orig
+.claude/
 
 
 #Apple Stuff
