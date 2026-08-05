@@ -20,6 +20,7 @@ __pycache__/
 .gitattributes
 *.ipynb.orig
 .claude/
+chattraps/
 
 
 #Apple Stuff
