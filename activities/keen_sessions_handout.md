@@ -1,0 +1,143 @@
+<!--keen-manifest
+command: python3 draw_sessions.py --nsessions 10 --seed 10760804 --errors S,R --clean-rate 0.1
+catalog: 299d20616dc5
+1 | Sampling and the central limit theorem | 2–4, 8
+2 | Sampling and the central limit theorem | 2–4, 8
+3 | Correlation and regression | 9–13
+4 | Sampling and the central limit theorem | 2–4, 8
+5 | Sampling and the central limit theorem | 2–4, 8
+6 | Correlation and regression | 9–13
+7 | Sampling and the central limit theorem | 2–4, 8
+8 | Sampling and the central limit theorem | 2–4, 8
+9 | Correlation and regression | 9–13
+10 | Sampling and the central limit theorem | 2–4, 8
+-->
+
+# KEEN — EE516
+
+You are the lead scientist on this project. KEEN is your assistant: fast,
+confident, and often wrong about exactly one thing. Find your session number below, copy the block, and paste the whole thing into a new chat.
+
+## Step 1: Getting started
+
+- Ensure you are in ```Chat``` mode and the model is set to use ```Sonnet 4.6 Medium```
+- Find your session number below and copy the whole block under it. Paste it into a new chat.
+- To get credit for this activity: change the name of the session to ```YYYY-MM-DD: Your Name, Your Partner's Name```, and before time is called, type your single best claim into the chat — what you think the mistake was and how much it mattered — whether or not the session has ended. Credit is for the claim you commit to, not for being right.
+
+## Step 2: Evaluating the analysis
+
+- You should assume that KEEN's synthetic, raw data is always correct. What KEEN does with it is what you are evaluating.
+- Push back when something looks off. KEEN will agree with you enthusiastically
+  **whether or not you are right**.
+- Claude project files should not be opened...ever.
+
+## Step 3: Successfully completing the activity
+
+- To end the session, state in one sentence: **what the mistake was and
+  how much (qualitative is fine) it mattered.**
+  >e.g. "The mistake is that the window is left-aligned, not centered, and so it flipped the sign of the lagged relationship which is a big deal."
+- Only a specific, correct diagnosis by you will fix the errors and end the session.
+- KEEN is working fast, so it is possible it introduced additional substantial mistakes (although this is rare). However, the session will not end until you identify the one planted mistake. Some sessions have no planted mistake at all. Saying so is a valid answer.
+
+**Jump to Session #** [1](#session-1) · [2](#session-2) · [3](#session-3) · [4](#session-4) · [5](#session-5) · [6](#session-6) · [7](#session-7) · [8](#session-8) · [9](#session-9) · [10](#session-10)
+
+---
+
+## Session 1
+
+```
+Session 1
+
+KEEN, I need this before my 3pm. Take the river gauge record and tell me whether the last decade's summer flows are unusual against the rest of the record, and whether extreme summers have become more frequent. Full analysis — don't ask me questions first, just run it.
+```
+
+---
+
+## Session 2
+
+```
+Session 2
+
+KEEN, I need this before my 3pm. Take the chlorophyll record from the coastal station and tell me whether the last decade's bloom seasons are unusual against the rest of the record, and whether extreme seasons have become more frequent. Full analysis — don't ask me questions first, just run it.
+```
+
+---
+
+## Session 3
+
+```
+Session 3
+
+KEEN, I need this before my 3pm. Which weather variables actually explain daily electricity demand in this city, and how much skill do they buy me? Full analysis — don't ask me questions first, just run it.
+```
+
+---
+
+## Session 4
+
+```
+Session 4
+
+KEEN, I need this before my 3pm. Take the river gauge record and tell me whether the last decade's summer flows are unusual against the rest of the record, and whether extreme summers have become more frequent. Full analysis — don't ask me questions first, just run it.
+```
+
+---
+
+## Session 5
+
+```
+Session 5
+
+KEEN, I need this before my 3pm. Take the chlorophyll record from the coastal station and tell me whether the last decade's bloom seasons are unusual against the rest of the record, and whether extreme seasons have become more frequent. Full analysis — don't ask me questions first, just run it.
+```
+
+---
+
+## Session 6
+
+```
+Session 6
+
+KEEN, I need this before my 3pm. Which weather variables actually explain daily electricity demand in this city, and how much skill do they buy me? Full analysis — don't ask me questions first, just run it.
+```
+
+---
+
+## Session 7
+
+```
+Session 7
+
+KEEN, I need this before my 3pm. Take the river gauge record and tell me whether the last decade's summer flows are unusual against the rest of the record, and whether extreme summers have become more frequent. Full analysis — don't ask me questions first, just run it.
+```
+
+---
+
+## Session 8
+
+```
+Session 8
+
+KEEN, I need this before my 3pm. Take the chlorophyll record from the coastal station and tell me whether the last decade's bloom seasons are unusual against the rest of the record, and whether extreme seasons have become more frequent. Full analysis — don't ask me questions first, just run it.
+```
+
+---
+
+## Session 9
+
+```
+Session 9
+
+KEEN, I need this before my 3pm. Which weather variables actually explain daily electricity demand in this city, and how much skill do they buy me? Full analysis — don't ask me questions first, just run it.
+```
+
+---
+
+## Session 10
+
+```
+Session 10
+
+KEEN, I need this before my 3pm. Take the river gauge record and tell me whether the last decade's summer flows are unusual against the rest of the record, and whether extreme summers have become more frequent. Full analysis — don't ask me questions first, just run it.
+```
+
