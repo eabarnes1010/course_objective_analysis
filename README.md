@@ -27,7 +27,7 @@ conda create -n env-ee516 -c conda-forge -y python=3.13 \
 conda activate env-ee516
 
 # Add a few pip-only packages
-pip install MiniSom palettable tqdm nbqa jupyterlab_code_formatter
+pip install MiniSom palettable tqdm nbqa jupyterlab_code_formatter palmerpenguins
 ```
 
 A few of the notebooks (random-forest visualizations) also need the `graphviz` system binary. On macOS:
