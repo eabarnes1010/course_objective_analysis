@@ -407,11 +407,21 @@ dependencies:
   - zstd=1.5.7
   - pip:
       - autopep8==2.3.2
+      - colorama==0.4.6
+      - flake8==7.3.0
+      - gitdb==4.0.12
+      - gitpython==3.1.50
       - jupyterlab-code-formatter==3.0.3
+      - mccabe==0.7.0
       - minisom==2.3.6
+      - nbdime==4.0.4
       - nbqa==1.9.1
       - palettable==3.3.3
+      - palmerpenguins==0.1.6
       - pycodestyle==2.14.0
+      - pyflakes==3.4.0
+      - smmap==5.0.3
       - tokenize-rt==6.2.0
       - tqdm==4.67.3
+      - wget==3.2
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/env-ee516
