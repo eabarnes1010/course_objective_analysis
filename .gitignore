@@ -21,6 +21,7 @@ __pycache__/
 *.ipynb.orig
 .claude/
 chattraps/
+worktrees/
 
 
 #Apple Stuff
